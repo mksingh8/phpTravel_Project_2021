@@ -1,0 +1,7 @@
+2021-07-18 09:37:23,679: INFO: root: setting up the chrome option
+2021-07-18 09:37:23,679: INFO: root: initiating browser and navigating to the webpage
+2021-07-19 22:12:45,617: INFO: test_log: test - calling log from different class method
+2021-07-19 22:14:12,671: INFO: test_log: test - calling log from different class method
+2021-07-19 22:15:34,194: INFO: test_log: test - calling log from different class method
+2021-07-19 22:31:02,137: INFO: Imple_log: this is first log entry
+2021-07-19 22:34:02,412: INFO: Imple_log: this is first log entry

@@ -1,0 +1,7 @@
+07/18/2021 01:31:00 AM: INFO: Test_001_SignUp: ********Test_001_SignUp*******
+07/18/2021 01:31:00 AM: INFO: Test_001_SignUp: starting browser and navigating to the phpTravel site
+07/18/2021 01:31:02 AM: INFO: Test_001_SignUp: Initiating landing page Object
+07/18/2021 01:31:02 AM: INFO: Test_001_SignUp: Clicking on Signup Page
+07/18/2021 01:31:04 AM: INFO: Test_001_SignUp: Setting up user credentials
+07/18/2021 01:31:07 AM: INFO: Test_001_SignUp: This user already exist.
+07/18/2021 01:31:07 AM: INFO: Test_001_SignUp: CLosing the signup pop up window
